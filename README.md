@@ -1,6 +1,9 @@
 ## 11.DataAnalysis_2022_KB_Step3
 ### Subject of CaseStudy : Taking look at Correlation within factors(population, CCTVs, ..) <br> explaining Violent Crimes occured in Seoul, by each (police) District of the city
-  - Data Exploration and Analysis using Python
+  - Data Exploration and Analysis executed by Python
   - With Libraries for Visualization: Matplotlib, Seaborn, Folium and etc.
-  - Getting Google's Geocoding data through API request
-  - 
+  - for Folium use, i've got Google's Geocoding data through API request
+  - '멀티캠퍼스' 주관 'KB DT개발STEP3 빅데이터를위한파이썬 연수과정'을 통해 수행한 프로젝트입니다.
+
+
+View Code!
