@@ -1,5 +1,5 @@
 ## 11.DataAnalysis_2022_KB_Step3
-### Subject of CaseStudy : Taking look at Correlation within factors(population, CCTVs, ..) <br> which explains Violent Crimes occured in Seoul, by each (police) District of the city
+### Subject of CaseStudy : Taking look at Correlation within factors(population, CCTVs, ..) <br> which explains Violent Crimes occured in Seoul (by each police district of the city)
   - Data Exploration and Analysis executed by Python
   - With Libraries for Visualization: Matplotlib, Seaborn, Folium and etc.
   - for Folium use, i've got Google's Geocoding data through API request
